@@ -1,6 +1,6 @@
 ## Olá, eu sou Bruno Angeloti
 
-Sou um desenvolvedor frontend junior na Wine, o maior Clube de vinhos do mundo! Conectamos pessoas por meio da paixão pelo vinho. 
+Sou um desenvolvedor frontend com muita vontade de trabalhar ativamente em projetos incríveis que mudam a vida de pessoas
 
 Além disso, sou cofundador da Moddev, uma empresa de desenvolvimento de software que busca soluções criativas para problemas complexos.
 
